@@ -1,4 +1,4 @@
-package net.konfuzo;
+package net.konfuzo.febrodenoche;
 
 import javax.swing.*;
 import java.awt.*;

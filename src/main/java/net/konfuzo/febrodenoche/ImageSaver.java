@@ -1,4 +1,4 @@
-package net.konfuzo;
+package net.konfuzo.febrodenoche;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
